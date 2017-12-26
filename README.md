@@ -13,3 +13,9 @@ This folder consists of:
 > 4. __Image.java__ -- class inclusive info about Image (url, data, pages)
 > 5. __Page.java__ -- class inclusive info about Page (url, title, links, backlinks, images)
 > 6. Auxiliary files
+
+## base_cache.zip
+This zip file consists of pages for **WevCrawlerTest**
+
+## kgeorgiy_cache.zip
+This zip file consists of pages for **WevCrawlerBossTest**
