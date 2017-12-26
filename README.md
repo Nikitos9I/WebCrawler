@@ -2,7 +2,7 @@
 It findes images on a web page and saves to local 
 
 ## Folder base
-These files was created for testing main program
+This folder consists of files for testing main program
 
 ## Folder crawler
 This folder consists of:
