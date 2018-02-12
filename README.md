@@ -15,7 +15,7 @@ This folder consists of:
 > 6. Auxiliary files
 
 ## base_cache.zip
-This zip file consists of pages for **WevCrawlerTest**
+This zip file consists of pages for testing **WebCrawlerTest**
 
 ## kgeorgiy_cache.zip
-This zip file consists of pages for **WevCrawlerBossTest**
+This zip file consists of pages for testing **WebCrawlerBossTest**
